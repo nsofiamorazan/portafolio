@@ -1,0 +1,375 @@
+
+.nunito {
+    font-family: "Nunito", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400px;
+    font-style: normal;
+  
+}
+
+.margarine{
+    font-family: "Margarine", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+
+.barra_azul{
+    background-color: #3491B7;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.font_barraazul{
+    color:  #F2E6F2;;
+}
+
+#navbar{
+    background-color: #F2E6F2;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-bottom: 5px solid  #EE2E67;
+    
+}
+ 
+
+.font_navbar{
+    color: #3491B7;
+    font-size: 23px;
+    
+}
+
+.fondo_one{
+    background-color: #EE2E67;
+    padding: 40px;
+    border-radius: 50px;
+    margin-right: 40px;
+    margin-left: 40px;
+    border: 8px solid #F2E6F2;  
+
+}
+
+.fondo_two{
+    background-color: #F2E6F2;
+    border-radius: 30px;
+    padding: 10px;
+    text-align: center;
+
+}
+
+.h1_iniciospan{
+    font-size: 80px;
+    text-align: center;
+    color:  #EE2E67;
+}
+
+.h1_inicio{
+    font-size: 60px;
+    text-align: center;
+    color: black;
+}
+
+#fondo_main{
+    background-image: url(../img/patronmain.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.p_h1{
+    color:  black;
+    font-size: 20px;
+    text-align: center;
+}
+
+.foto_inicio{
+    border-radius: 80px;
+    image-resolution: 300;
+    border: 17px solid #F2E6F2;
+    margin-left: 20px;
+}
+
+.icono_inicio{
+    font-size: 120px;
+    text-align: justify;
+    color:  #3491B7;
+}
+
+.boton_inicio{
+    background-color: #EE2E67;
+    text-align: center;
+    color: #F2E6F2;
+    font-size: 25px;
+    border: none
+}
+
+.icono_barraazul{
+    color:  #F2E6F2;
+    margin-right: 15px;
+    margin-left: 15px;
+}
+
+.backcolor_footer{
+    background-color:#F2E6F2;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.font_footerh3{
+    color: #EE2E67;
+}
+
+.font_footercuerpo{
+    color: black;
+    font-size: 17px;
+}
+
+.iconos_footer{
+    color: #3491B7;
+    font-size: 40px;
+}
+
+.iconos_footerdos{
+    color: #3491B7;
+    font-size: 60px;
+    margin-right: 10px;
+}
+
+.font_footercuerpodos{
+    color: black;
+    font-size: 18px;
+}
+
+.h3_footer{
+    color:  #3491B7;
+    font-size: 50px; 
+}
+
+#fondo_maindue{
+    background-color: #EE2E67;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+
+
+.patron_me{
+    background-repeat: no-repeat;
+    background-size:contain;
+    border-radius: 30px;
+  
+}
+
+.img_me{
+    border-radius: 50px;
+}
+.fondo_tre{
+    background-color:  #3491B7;
+    padding: 40px;
+    border-radius: 50px;
+    margin-right: 40px;
+    margin-left: 40px;
+    border: 8px solid #F2E6F2;  
+
+}
+
+#about_me{
+    background-color: #F2E6F2;
+    border-radius: 50px;
+    padding: 10px;
+    margin-right: 40px;
+    margin-left: 40px;
+    border: 8px solid   #3491B7;
+
+}
+
+.p_aboutme{
+    color:  black;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.iconos_aboutme{
+    color: #EE2E67;
+    font-size: 25px;
+}
+
+.columna_due{
+    padding-top: 200px;
+}
+
+.images_cards{
+    width: 500px;
+    image-resolution: 300;
+    height: 320px;
+    object-fit: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 120px;
+    padding-right: 38px;
+    
+    
+    
+}
+
+.text_card{
+    font-size: 18px;
+    color:black;
+    text-align: justify;
+    padding: 0;
+}
+
+.text_cardspan{
+    font-size: 18px;
+    color: #EE2E67;
+    text-align: justify;
+    padding: 0;
+}
+
+.h3_habilidades{
+    color:  #EE2E67;
+    text-align: center;
+    font-size: 30px;
+}
+
+.cards_team{
+    background-color: #F2E6F2; 
+    border-radius: 30px ;
+    border: 8px solid   #3491B7;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+      min-height: 40rem;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+#fondo_maintre{
+    background-image: url(../img/patronmain2.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
+
+.iconos_servicios{
+    color: #3491B7;
+    font-size: 140px;
+    text-align: center;
+    padding: 70px;
+}
+
+.cards_teamserv{
+    background-color:  #F2E6F2;   
+    border-radius: 30px ;
+    border: 8px solid   #3491B7;
+    width: 40rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+      min-height: 40rem;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.h2_servicios{
+    color:  #EE2E67;
+    text-align: center;
+    font-size: 50px;
+}
+
+.text_cardserv{
+    font-size: 20px;
+    color: black;
+    text-align: justify;
+    padding: 0;
+}
+
+#imagen_servicios{
+    background-image: url(../img/foto_inicio.jpg);
+    padding-top: 130px;
+    padding-bottom: 130px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    border: 17px solid   #3491B7;
+    
+}
+
+.h1_servicios{
+    font-size: 130px;
+    color:#F2E6F2; 
+    padding-top: 95px;
+    opacity: 100%;
+}
+
+#fondo_mainfour{
+    background-color: #3491B7;
+    padding-bottom: 40px;
+    padding-top: 40px;
+
+}
+
+#diseno_graph{
+    background-color: #F2E6F2;
+    border-radius: 50px;
+    padding: 40px;
+    margin-right: 40px;
+    margin-left: 40px;
+    border: 8px solid #EE2E67;
+
+
+}
+
+.h2_porta{
+    color:  #3491B7;
+    text-align: center;
+    font-size: 60px;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(48%) sepia(27%) saturate(715%) hue-rotate(163deg) brightness(94%) contrast(93%);
+}
+
+.carrusel_pequeno{
+    width: 500px;  
+    height: 500px;         
+    max-width: 600px;      
+    margin: 0 auto; 
+}
+
+#imagen_porta{
+    background-image: url(../img/fondo_porta.jpg);
+    padding-top: 130px;
+    padding-bottom: 130px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    border: 17px solid   #EE2E67;
+}
+
+.h1_sobremi{
+    font-size: 130px;
+    color:#EE2E67;
+    padding-top: 95px;
+    opacity: 100%;
+}
